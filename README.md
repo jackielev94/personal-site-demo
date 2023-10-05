@@ -1,9 +1,33 @@
 # 📚 **2310-FSA-ET-WEB-PT-SF-B**
 
+## Introduction
+
+### Lead Instructors: 
+* Jessica Duell
+  - Email: jessica.duell@fullstackacademy.com
+  - Github username: jduell12
+* Jackie Levine
+  - Email: jacqueline.levine@fullstackacademy.com
+  - Github username: jackielev94
+
+### Mentors: 
+* Doobin Lee
+  - Email: Doobin.Lee@fullstackacademy.com
+  - Github username: doobybooby
+* Gustavo Allen
+  - Email: gustavo.allen@fullstackacademy.com
+  - Github username: Gustavo-Blu
+
+### Student Success Managers:
+* Scott Burkhart
+  - Email: scott.burkhart@fullstackacademy.com
+* Samuel Martinez
+  - Email: scott.burkhart@fullstackacademy.com
+
 ## **Helpful Resources/Links**
 
 
-## A TABLE OF CLASS CONTENT
+## CLASS CONTENT
 <table>
   
   <tr>
@@ -23,7 +47,7 @@
         </li>
       </ul>
     </td>
-    <td><a href='./SlidesAndResources/Day1-Orientation.pdf'>Slides</a></td>
+    <td><a href='./SlidesAndResources/01-Orientation.pdf'>Slides</a></td>
   </tr>
 
    <tr>
@@ -38,4 +62,19 @@
     </td>
     <td> N/A </td>
   </tr>
+
+  <tr>
+    <td><b>10.5.2023</b></td>
+    <td><b>Day 03: Command Line Interface (CLI)</b></td>
+    <td>
+      <ul>
+        <li>
+          <a href=''>Lecture Recording</a>
+        </li>
+      </ul>
+    </td>
+    <td> <a href='./SlidesAndResources/03-CLI.md'>Resources</a> </td>
+  </tr>
+
+
 </table>
