@@ -69,7 +69,7 @@
     <td>
       <ul>
         <li>
-          <a href=''>Lecture Recording</a>
+          <a href='https://youtu.be/OWYZUl3N8xA'>Lecture Recording</a>
         </li>
       </ul>
     </td>
