@@ -4,6 +4,8 @@
 
 [Common Git Commands Walkthrough](./common_git_commands.md)
 
+[Github - Generate new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 ## Helpful Git terminal commands 
 ### Branches
 * ```git checkout -b new_branch```
