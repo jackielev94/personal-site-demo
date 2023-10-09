@@ -1,6 +1,7 @@
 # 📚 **2310-FSA-ET-WEB-PT-SF-B**
 
 ## Introduction
+<details><summary>Click to view</summary>
 
 ### Lead Instructors: 
 * Jessica Duell
@@ -24,8 +25,7 @@
 * Samuel Martinez
   - Email: scott.burkhart@fullstackacademy.com
 
-## **Helpful Resources/Links**
-
+</details>
 
 ## CLASS CONTENT
 <table>

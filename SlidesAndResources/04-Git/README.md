@@ -1,10 +1,10 @@
 # GIT 
 
-[Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+<a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">Git Cheatsheet</a>
 
 [Common Git Commands Walkthrough](./common_git_commands.md)
 
-[Github - Generate new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+<a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Github - Generate new SSH key</a>
 
 ## Helpful Git terminal commands 
 ### Branches
@@ -22,7 +22,7 @@
 * ```git remote add origin https://some/origin/url```
     - adds a new remote origin url
     - any changes pushed up will go to this url
-* ```git remote rm destination``
+* ```git remote rm destination```
     - removes references to the remote called destination
 * ```git remote -v```
     - prints out the url that the remote is tied to
