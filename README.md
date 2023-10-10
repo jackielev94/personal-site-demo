@@ -47,7 +47,7 @@
         </li>
       </ul>
     </td>
-    <td><a href='./SlidesAndResources/01-Orientation.pdf'>Slides</a></td>
+    <td><a href='./SlidesAndResources/01-Orientation/01-Orientation_Slides.pdf'>Slides</a></td>
   </tr>
 
    <tr>
@@ -73,8 +73,19 @@
         </li>
       </ul>
     </td>
-    <td> <a href='./SlidesAndResources/03-CLI.md'>Resources</a> </td>
+    <td> <a href='./SlidesAndResources/03-CLI/README.md'>Resources</a> </td>
   </tr>
-
+  <tr>
+    <td><b>10.9.2023</b></td>
+    <td><b>Day 04: Git / Github</b></td>
+    <td>
+      <ul>
+        <li>
+          <a href='https://youtu.be/ZHUZ8LpWKvk'>Lecture Recording</a>
+        </li>
+      </ul>
+    </td>
+    <td> <a href='./SlidesAndResources/04-Git/README.md'>Resources</a> </td>
+  </tr>
 
 </table>
