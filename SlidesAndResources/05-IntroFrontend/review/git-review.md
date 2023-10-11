@@ -1,14 +1,14 @@
-## Git Review
+# Git Review
 
-# Scenario 1: Make a change locally, and want that change reflected on Github
+## Scenario 1: Make a change locally, and want that change reflected on Github
 * git add (add code to staging area)
 * git commit -m "git review folder"
 * git push
 
-# Reflect changes from Github locally
+## Reflect changes from Github locally
 * git pull
 
-# New Feature Git Process
+## New Feature Git Process
 * git pull (on main)
 * git checkout -b new_feature
 * (do some work on that branch)
