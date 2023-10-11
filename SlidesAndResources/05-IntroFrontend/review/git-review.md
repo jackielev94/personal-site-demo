@@ -4,3 +4,5 @@
 * git add (add code to staging area)
 * git commit -m "git review folder"
 * git push
+
+# Reflect changes from github locally
