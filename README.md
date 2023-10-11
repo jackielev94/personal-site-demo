@@ -3,7 +3,7 @@
 ## Introduction
 <details><summary>Click to view</summary>
 
-### Lead Instructors: 
+### Lead Instructors:
 * Jessica Duell
   - Email: jessica.duell@fullstackacademy.com
   - Github username: jduell12
@@ -11,7 +11,7 @@
   - Email: jacqueline.levine@fullstackacademy.com
   - Github username: jackielev94
 
-### Mentors: 
+### Mentors:
 * Doobin Lee
   - Email: Doobin.Lee@fullstackacademy.com
   - Github username: doobybooby
@@ -29,14 +29,14 @@
 
 ## CLASS CONTENT
 <table>
-  
+
   <tr>
     <th style="width: 60px;"> Date </th>
     <th style="width: 300px;"> Class </th>
     <th style="width: 300px;"> Lecture  </th>
     <th style="width: 300px;"> Resources  </th>
   </tr>
-  
+
   <tr>
     <td><b>10.2.2023</b></td>
     <td><b>Day 01: Program Overview & Git Workshop</b></td>
@@ -86,6 +86,18 @@
       </ul>
     </td>
     <td> <a href='./SlidesAndResources/04-Git/README.md'>Resources</a> </td>
+  </tr>
+    <tr>
+    <td><b>10.11.2023</b></td>
+    <td><b>Day 05: Intro to Frontend Development</b></td>
+    <td>
+      <ul>
+        <li>
+          <a>To Come</a>
+        </li>
+      </ul>
+    </td>
+    <td> <a href='./SlidesAndResources/05-IntroFrontend/README.md'>Resources</a> </td>
   </tr>
 
 </table>
