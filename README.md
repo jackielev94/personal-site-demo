@@ -93,7 +93,15 @@
     <td>
       <ul>
         <li>
-          <a href="https://www.youtube.com/watch?v=kBDvwVSKMyc&list=PL_yPiP-ZZLhJ35oy6kKfiex18CU25DYMN&index=5&pp=gAQBiAQB">Lecture Recording</a>
+          <a href="Static content in dashboard
+Review application
+View documents
+Any learning content we’ve made available previously
+Any content that a user needs to come back to after completing the modules (ie submitting a property for evaluation)
+View only mode of modules after completing them
+Pages missing:
+Submit your application page (we have to disable app submission in ssn page)
+All of the new questionnaire content (we are missing the select options/desired input types from product)">Lecture Recording</a>
         </li>
       </ul>
     </td>
