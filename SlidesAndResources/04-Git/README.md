@@ -1,5 +1,13 @@
 # GIT 
 
+## Objectives: 
+* Explore the basics of an IDE (VSCode)
+* Create a GitHub repository.
+* Navigate GitHub to locate repositories.
+* Create an SSH key.
+* Perform the steps necessary to link our SSH key with our GitHub account.
+
+
 <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="_blank">Git Cheatsheet</a>
 
 [Common Git Commands Walkthrough](./common_git_commands.md)
