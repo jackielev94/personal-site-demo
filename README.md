@@ -93,7 +93,7 @@
     <td>
       <ul>
         <li>
-          <a>To Come</a>
+          <a href="https://www.youtube.com/watch?v=kBDvwVSKMyc&list=PL_yPiP-ZZLhJ35oy6kKfiex18CU25DYMN&index=5&pp=gAQBiAQB">Lecture Recording</a>
         </li>
       </ul>
     </td>
