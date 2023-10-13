@@ -102,11 +102,14 @@
     </tr>
     <tr>
     <td><b>10.12.2023</b></td>
-    <td><b>Day 06: More Frontend Development</b></td>
+    <td><b>Day 06: Career Success: Intro / More Frontend Development</b></td>
     <td>
       <ul>
         <li>
-          <a>To Come</a>
+          <a href="https://youtu.be/nv2zKju6k3k?si=jfsIEobEyys5K1Hu">Career Success: Intro</a>
+        </li>
+        <li>
+          <a href="https://youtu.be/P9ILn9zD9f8">Lecture Recording</a>
         </li>
       </ul>
     </td>
