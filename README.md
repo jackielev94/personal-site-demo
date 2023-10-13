@@ -99,5 +99,18 @@
     </td>
     <td> <a href='./SlidesAndResources/05-IntroFrontend/README.md'>Resources</a> </td>
   </tr>
+    </tr>
+    <tr>
+    <td><b>10.12.2023</b></td>
+    <td><b>Day 06: More Frontend Development</b></td>
+    <td>
+      <ul>
+        <li>
+          <a>To Come</a>
+        </li>
+      </ul>
+    </td>
+    <td> <a href='./SlidesAndResources/06-CSS/README.md'>Resources</a> </td>
+  </tr>
 
 </table>

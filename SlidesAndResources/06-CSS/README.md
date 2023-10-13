@@ -2,7 +2,7 @@
 
 The starting code for the in-class demo can be found [here](./demo/README.md)
 
-<!-- The solution code for the in-class demo can be found within the [SolutionCode](../../SolutionCode/06-CSS/demo_solution/) folder -->
+The solution code for the in-class demo can be found within the [SolutionCode](../../SolutionCode/06-CSS/demo_solution/) folder
 
 ## Objectives: 
 * Identify some common CSS selectors and rules. 
