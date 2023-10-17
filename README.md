@@ -87,7 +87,7 @@
     </td>
     <td> <a href='./SlidesAndResources/04-Git/README.md'>Resources</a> </td>
   </tr>
-    <tr>
+  <tr>
     <td><b>10.11.2023</b></td>
     <td><b>Day 05: Intro to Frontend Development</b></td>
     <td>
@@ -99,8 +99,7 @@
     </td>
     <td> <a href='./SlidesAndResources/05-IntroFrontend/README.md'>Resources</a> </td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td><b>10.12.2023</b></td>
     <td><b>Day 06: Career Success: Intro / More Frontend Development</b></td>
     <td>
@@ -115,5 +114,12 @@
     </td>
     <td> <a href='./SlidesAndResources/06-CSS/README.md'>Resources</a> </td>
   </tr>
-
+  <tr>
+    <td><b>10.16.2023</b></td>
+    <td><b>Day 07: Intro to JavaScript</b></td>
+    <td>
+      <a href="">Lecture Recording To Come</a>
+    </td>
+    <td> <a href='./SlidesAndResources/07-IntroJS/README.md'>Resources</a> </td>
+  </tr>
 </table>
