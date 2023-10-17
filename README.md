@@ -118,8 +118,14 @@
     <td><b>10.16.2023</b></td>
     <td><b>Day 07: Intro to JavaScript</b></td>
     <td>
-      <a href="">Lecture Recording To Come</a>
+      <ul>
+        <li>
+          <a>Lecture Recording To Come</a>
+        </li>
+      </ul>
     </td>
-    <td> <a href='./SlidesAndResources/07-IntroJS/README.md'>Resources</a> </td>
+    <td>
+      <a href='./SlidesAndResources/07-IntroJS/README.md'>Resources</a>
+    </td>
   </tr>
 </table>
