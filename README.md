@@ -120,7 +120,7 @@
     <td>
       <ul>
         <li>
-          <a>Lecture Recording To Come</a>
+          <a href="https://www.youtube.com/watch?v=PceoPhjWtug&list=PL_yPiP-ZZLhJ35oy6kKfiex18CU25DYMN&index=8">Lecture Recording</a>
         </li>
       </ul>
     </td>
