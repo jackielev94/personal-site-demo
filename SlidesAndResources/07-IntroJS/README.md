@@ -1,6 +1,6 @@
 # Block 5: JavaScript Fundamentals
 
-The code for the in-class notes can be found [here](./demo/README.md)
+The code for the in-class notes can be found [here](./demo)
 
 ## Objectives:
 * Write functioning JavaScript in an external .js file and include it via a script tag.
