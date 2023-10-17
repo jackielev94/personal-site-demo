@@ -6,6 +6,7 @@ var exampleVariable = 'example';
 // We want to use these (let and const)!
 let changingVariable = 5;
 
+
 const changeBeforeString = 'changing variable before: '
 const changeAfterString = 'changing variable after: '
 
@@ -19,7 +20,8 @@ const staticVariable = 10;
 
 console.log('static variable before: ', staticVariable)
 
-staticVariable = 20;
+// This would cause an error
+// staticVariable = 20;
 
 console.log('static variable after: ', staticVariable)
 
