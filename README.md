@@ -28,6 +28,8 @@
 </details>
 
 ## CLASS CONTENT
+<a href="https://youtu.be/TBQDxi2GW9Q">Walkthrough of Canvas Peer Reviews</a>
+
 <table>
 
   <tr>
@@ -73,7 +75,9 @@
         </li>
       </ul>
     </td>
-    <td> <a href='./SlidesAndResources/03-CLI/README.md'>Resources</a> </td>
+    <td> 
+      <a href='./SlidesAndResources/03-CLI/README.md'>Lecture Resources</a> 
+    </td>
   </tr>
   <tr>
     <td><b>10.9.2023</b></td>
@@ -85,7 +89,7 @@
         </li>
       </ul>
     </td>
-    <td> <a href='./SlidesAndResources/04-Git/README.md'>Resources</a> </td>
+    <td> <a href='./SlidesAndResources/04-Git/README.md'>Lecture Resources</a> </td>
   </tr>
   <tr>
     <td><b>10.11.2023</b></td>
@@ -97,7 +101,7 @@
         </li>
       </ul>
     </td>
-    <td> <a href='./SlidesAndResources/05-IntroFrontend/README.md'>Resources</a> </td>
+    <td> <a href='./SlidesAndResources/05-IntroFrontend/README.md'>Lecture Resources</a> </td>
   </tr>
   <tr>
     <td><b>10.12.2023</b></td>
@@ -112,7 +116,7 @@
         </li>
       </ul>
     </td>
-    <td> <a href='./SlidesAndResources/06-CSS/README.md'>Resources</a> </td>
+    <td> <a href='./SlidesAndResources/06-CSS/README.md'>Lecture Resources</a> </td>
   </tr>
   <tr>
     <td><b>10.16.2023</b></td>
@@ -125,7 +129,22 @@
       </ul>
     </td>
     <td>
-      <a href='./SlidesAndResources/07-IntroJS/README.md'>Resources</a>
+      <a href='./SlidesAndResources/07-IntroJS/README.md'>Lecture Resources</a>
+      <a href="./SolutionCode/07-IntroJS/guided_practice.js">Guided Practice Solution</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>10.18.2023</b></td>
+    <td><b>Day 08: Development Team Dynamics </b></td>
+    <td>
+      <ul>
+        <li>
+          <a href="https://youtu.be/8NU5hq56zHQ">Lecture Recording</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <a href="./SolutionCode/08-DevTeam/guidedPracticeSol.html">Guided Practice Solution</a>
     </td>
   </tr>
 </table>
