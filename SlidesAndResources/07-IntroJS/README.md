@@ -1,4 +1,4 @@
-# Block 5: JavaScript Fundamentals
+# Block 7: JavaScript Fundamentals
 
 The code for the in-class notes can be found [here](./demo)
 

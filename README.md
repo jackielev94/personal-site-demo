@@ -75,8 +75,8 @@
         </li>
       </ul>
     </td>
-    <td> 
-      <a href='./SlidesAndResources/03-CLI/README.md'>Lecture Resources</a> 
+    <td>
+      <a href='./SlidesAndResources/03-CLI/README.md'>Lecture Resources</a>
     </td>
   </tr>
   <tr>
@@ -145,6 +145,20 @@
     </td>
     <td>
       <a href="./SolutionCode/08-DevTeam/guidedPracticeSol.html">Guided Practice Solution</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>10.20.2023</b></td>
+    <td><b>Day 09: Personal Website: Part 1 </b></td>
+    <td>
+      <ul>
+        <li>
+          <a href="https://www.youtube.com/watch?v=xEUm1yH0QAE&list=PL_yPiP-ZZLhJ35oy6kKfiex18CU25DYMN&index=11">Lecture Recording</a>
+        </li>
+      </ul>
+    </td>
+    <td>
+       <a href='./SlidesAndResources/09-PersonalWebsite/README.md'>Lecture Resources</a>
     </td>
   </tr>
 </table>
