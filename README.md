@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 **2310-FSA-ET-WEB-PT-SF-B**
 
 ## Introduction
@@ -162,3 +163,11 @@
     </td>
   </tr>
 </table>
+=======
+# My Personal Website
+
+This is a portfolio website for my coding projects.
+
+In order to run this locally, clone the repository and open the
+index.html on live server.
+>>>>>>> 85e3fdf2737fa98ba174a8d4a510c858168041a1
