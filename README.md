@@ -148,7 +148,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>10.20.2023</b></td>
+    <td><b>10.20.2024</b></td>
     <td><b>Day 09: Personal Website: Part 1 </b></td>
     <td>
       <ul>
